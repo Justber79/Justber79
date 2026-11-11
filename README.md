@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Justber79/Justber79/raw/refs/heads/main/header_github.gif" alt="Justber79 — Full-Stack Developer, UI/UX Designer and AI" width="100%" />
+<img src="https://github.com/Justber79/Justber79/raw/refs/heads/main/header_justber79.gif" alt="Justber79 — Full-Stack Developer, UI/UX Designer and AI" width="100%" />
 
 # Hi, I'm Justber79 👋
 
