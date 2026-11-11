@@ -1,7 +1,21 @@
 
+
 <div align="center">
 
-<img src="https://github.com/Justber79/Justber79/raw/refs/heads/main/header_justber79.gif" alt="Justber79 — Full-Stack Developer, UI/UX Designer and AI" width="100%" />
+<img src="./header_img_justber79.png" alt="Justber79 — Full-Stack Developer, UI/UX Designer and AI" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=75&section=header" width="100%" alt="Gradient wave" />
+
+### ✨ Who I Am and What I Do
+
+I'm a full-stack software engineer with a background in UI/UX design. I combine technical problem-solving with a user-centered approach to build intuitive, accessible and responsive applications.
+
+🤖 I use AI tools in my development workflow and explore ways to integrate AI technologies into useful digital experiences.
+
+</div>
+
+---
+
 
 # Hi, I'm Justber79 👋
 
