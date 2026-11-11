@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=120&section=header" width="100%" alt="Gradient wave" />
 
-### ✨ Who I am and what i do
+### ✨ Who I am and what I do
 
 I'm a full-stack software engineer with a background in UI/UX design. I combine technical problem-solving with a user-centered approach to build intuitive, accessible, and responsive applications.
 
