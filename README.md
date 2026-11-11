@@ -11,8 +11,6 @@
 
 I'm a full-stack software developer with a background in UI/UX design. I combine technical problem-solving with a user-centered approach to build intuitive, accessible, and responsive applications.
 
-I use AI tools in my development workflow and explore ways to integrate AI technologies into useful digital experiences.
-
 ---
 
 ## ⚡ Tech Stack
