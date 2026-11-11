@@ -42,10 +42,11 @@ I'm a full-stack software developer with a background in UI/UX design. I combine
 
 ## 🚀 What I Work On
 
-- 💻 Modern web applications with React, Next.js, and TypeScript
-- 🎨 Accessible, responsive, and user-centered interfaces
+- 💻 Building modern web applications with React, Next.js, JavaScript, and TypeScript
+- ⚙️ Developing backend solutions and APIs
+- 🗄️ Working with relational and NoSQL databases
+- 🎨 Designing intuitive, accessible, and responsive user interfaces
 - 🤖 AI-assisted development and AI-powered applications
-- ⚙️ Full-stack applications, APIs, and databases
 
 ---
 
